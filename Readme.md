@@ -47,16 +47,16 @@ python -m unittest test_library.py
 
 ## Screenshots
 1. Launch Screen
-![Launch Screen](https://github.com/uptime-crew-recruiting/Sonu0207-repo-7f92e288-88df-4103-960a-92c3ecd7576d/blob/main/library_system/Sample_Images/launchScreen.png)
+![Launch Screen](https://github.com/Sonu0207/Library_Management_System/tree/main/Sample_Images/launchScreen.png)
 
 2. Member Checks out book
-![After Checking Out](https://github.com/uptime-crew-recruiting/Sonu0207-repo-7f92e288-88df-4103-960a-92c3ecd7576d/blob/main/library_system/Sample_Images/afterChecout.png)
+![After Checking Out](https://github.com/Sonu0207/Library_Management_System/tree/main/Sample_Images/afterChecout.png)
 
 3. Late Fee Applied
-![LateFee](https://github.com/uptime-crew-recruiting/Sonu0207-repo-7f92e288-88df-4103-960a-92c3ecd7576d/blob/main/library_system/Sample_Images/lateFee.png)
+![LateFee](https://github.com/Sonu0207/Library_Management_System/tree/main/Sample_Images/lateFee.png)
 
 4. View Browsing History of Member
-![Browsing History](https://github.com/uptime-crew-recruiting/Sonu0207-repo-7f92e288-88df-4103-960a-92c3ecd7576d/blob/main/library_system/Sample_Images/browsingHistory.png)
+![Browsing History](https://github.com/Sonu0207/Library_Management_System/tree/main/Sample_Images/browsingHistory.png)
 
 ## Exceptions
 
