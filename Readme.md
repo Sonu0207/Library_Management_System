@@ -50,7 +50,7 @@ python -m unittest test_library.py
 ![Launch Screen](https://github.com/Sonu0207/Library_Management_System/tree/main/Sample_Images/launchScreen.png)
 
 2. Member Checks out book
-![After Checking Out](https://github.com/Sonu0207/Library_Management_System/tree/main/Sample_Images/afterChecout.png)
+![After Checking Out](https://github.com/Sonu0207/Library_Management_System/blob/main/Sample_Images/afterChecout.png)
 
 3. Late Fee Applied
 ![LateFee](https://github.com/Sonu0207/Library_Management_System/tree/main/Sample_Images/lateFee.png)
